@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "AndroidTVControll": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "DockerfileRunArguments": "--network host"
+    }
+  }
+}
